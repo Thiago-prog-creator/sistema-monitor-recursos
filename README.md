@@ -148,6 +148,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Desenvolvido com ❤️ para monitoramento eficiente de recursos do sistema Windows.
 
----
+## 📸 Captura de Tela
+
+Visualização do Monitor de Recursos do Sistema em execução:
+
+<img width="872" height="458" alt="Monitor exeuc" src="https://github.com/user-attachments/assets/c11cf047-4b59-41b9-afa3-332fefadd375" />
+
 
 **Nota**: Este projeto foi desenvolvido e testado no Windows. Para outras plataformas, adaptações podem ser necessárias.
