@@ -1,0 +1,54 @@
+# Arquivos executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos de compilação
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+*.so
+
+# Arquivos de log gerados pelo programa
+*.csv
+monitor_recursos.csv
+
+# Arquivos temporários do sistema
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos do IDE/Editor
+.vscode/
+.vs/
+*.code-workspace
+*.vcxproj
+*.vcxproj.user
+*.sln
+*.suo
+
+# Arquivos de compilador específicos
+*.pdb
+*.ilk
+*.exp
+*.map
+
+# Arquivos de debug
+debug/
+Debug/
+release/
+Release/
+x64/
+x86/
+
+# Arquivos temporários
+*~
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Logs específicos do monitor (exceto exemplo)
+!exemplo_log.csv
